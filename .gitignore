@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Dataset (Exceeds GitHub 100MB limit)
+data/creditcard.csv
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
